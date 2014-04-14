@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="geolocalisation.xsl" type="text/xsl"?> 
+
+<universite nom_universite="UM2">
+	<campus nom_campus="UM2">
+		<batiment nom="polytech" x="5" y="54" z="0"> 
+			<pi type="amphi" numero_salle="5.01" x="54" y="54" z="0"/> 	
+			<pi type="cafe" x="543" y="535" z="0"/>
+		</batiment>
+
+		<batiment nom="20" x="5" y="54" z="0">
+			<pi type="amphi" numero_salle="20.02" x="54" y="586" z="0"/>
+			<pi type="distrib" x="1" y="55" z="0"/>
+		</batiment>
+		<batiment nom="25" x="254" y="2" z="0">
+			<pi type="s_td" numero_salle="25.05" x="45" y="24" z="0"/>
+			<pi type="s_labo"  numero_salle="02"  x="54" y="542" z="0"/>
+		</batiment>
+		<batiment nom="16" x="254" y="24" z="0">
+			<pi type="cafe" x="654" y="35" z="0"/>
+			<pi type="administration" numero_salle="16.10" libelle="info" x="365" y="364" z="0"/>
+		</batiment>
+		<batiment nom="5" x="65" y="3465" z="0">
+			<pi type="cafete" x="365" y="35" z="0"/>
+			<pi type="s_td" numero_salle="15" libelle="scel" x="35" y="65" z="0"/>
+		</batiment>
+	</campus>
+</universite>
+
